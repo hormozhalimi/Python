@@ -1,2 +1,16 @@
-hello git and github
-kjjKJDFKJnkjf
+Create variables:
+my_age
+half_my_age
+greeting
+name
+greeting_with_name
+Assign values to each using your knowledge of division and concatenation!
+
+
+
+
+my_age = 1
+half_my_age=4
+greeting="hello!"
+name="Halimi"
+greeting_with_name="thanks"
