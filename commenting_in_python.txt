@@ -1,0 +1,6 @@
+Documentation is an important step in programming. 
+Write a comment describing the first program you want to write!
+...
+#I want to code on python which is my faverite computer language"
+or 
+#print(variable)
